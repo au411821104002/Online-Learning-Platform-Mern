@@ -2,7 +2,8 @@
 
 **EduSphere** is a comprehensive online learning platform designed using the MERN stack (MongoDB, Express.js, React, Node.js). The platform supports different user roles including students, teachers, and administrators, facilitating a seamless educational experience.
 
-![image](https://github.com/user-attachments/assets/5215c20d-4d00-45c1-b156-a153c44d2c90)
+![Screenshot (23)](https://github.com/user-attachments/assets/562ff493-0b5c-4aba-a961-973430760807)
+
 
 
 
