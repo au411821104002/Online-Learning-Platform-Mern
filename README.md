@@ -1,11 +1,7 @@
-# EduSphere - Online Learning Platform (MERN Stack)
+#Online Learning Platform (MERN Stack)
 NMID: CA4B551A66BAC9488D945BB898DB8DAF
 
-**EduSphere** is a comprehensive online learning platform designed using the MERN stack (MongoDB, Express.js, React, Node.js). The platform supports different user roles including students, teachers, and administrators, facilitating a seamless educational experience.
-
-![Screenshot (23)](https://github.com/user-attachments/assets/562ff493-0b5c-4aba-a961-973430760807)
-
-
+**Study App** is a comprehensive online learning platform designed using the MERN stack (MongoDB, Express.js, React, Node.js). The platform supports different user roles including students, teachers, and administrators, facilitating a seamless educational experience.
 
 
 ## Table of Contents
@@ -20,7 +16,7 @@ NMID: CA4B551A66BAC9488D945BB898DB8DAF
 - [Run the Project](#run-the-project)
 
 ## Project Overview
-EduSphere is a digital platform providing tools and resources to facilitate learning and education over the internet. Users can enroll in courses, track their progress, and earn certifications. The platform is designed to ensure ease of use for all users, including students, teachers, and administrators.
+Study App is a digital platform providing tools and resources to facilitate learning and education over the internet. Users can enroll in courses, track their progress, and earn certifications. The platform is designed to ensure ease of use for all users, including students, teachers, and administrators.
 
 ## Key Features
 - **User-Friendly Interface:** Intuitive navigation for seamless learning.
@@ -85,7 +81,7 @@ EduSphere is a digital platform providing tools and resources to facilitate lear
 
 ## Folder Structure
 ```plaintext
-EduSphere/
+Study App/
 │
 ├── backend/
 │   ├── config/
